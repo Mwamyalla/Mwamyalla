@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 
 📫 How to reach me
-Email: lerasto40@gmail.com
-LinkedIn: https://www.linkedin.com/in/lucas-myalla-86b397277/
-Twitter: @_stonelab
+- Email: lerasto40@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lucas-myalla-86b397277/
+- Twitter: @_stonelab
 
 ⚡ Fun Fact
-When I'm not coding, you can find me watching games, playing the listening music, or exploring the latest in tech innovations.
+ - When I'm not coding, you can find me watching games, playing the listening music, or exploring the latest in tech innovations.
 
 
