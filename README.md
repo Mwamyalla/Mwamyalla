@@ -1,4 +1,4 @@
- Hi there, I'm Lucas Myalla! 👋
+I'm Lucas Myalla! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and constantly learning new technologies.
 
