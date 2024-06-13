@@ -14,6 +14,16 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - Web Development: React,Vue
 - Backend Development: Laravel,Codeigniter, Django, Flask
 
+🛠 Technologies & Tools
+
+    Languages: Python Rust Dart JavaScript HTML CSS
+
+    Frameworks: Django Flask Flutter
+
+    Databases: PostgreSQL MySQL MongoDB
+
+    Tools: Git Docker VS Code PyCharm
+
 🌟 Tools and Skills
 - UI/UX Design: Adobe XD, Figma
 - Graphic Design: Adobe Photoshop, Illustrator
