@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_stonelab" target="blank"><img src="https://img.shields.io/twitter/follow/_stonelab?logo=twitter&style=for-the-badge" alt="_stonelab" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce](#)
+- 🔭 I’m currently working on [Ecommerce](#) & [Auto365Africa](#)
 
 - 🌱 I’m currently learning **TensorFlow,Kubernetes**
 
