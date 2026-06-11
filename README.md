@@ -46,8 +46,6 @@ class LucasMyalla:
         self.tech_stack = [
             "Python",
             "Django",
-            "Laravel",
-            "React",
             "Docker",
             "Linux",
             "PostgreSQL"
