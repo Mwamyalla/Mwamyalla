@@ -1,152 +1,343 @@
 <div align="center">
 
-# Lucas Myalla
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0C2644&height=200&section=header&text=LUCAS%20MYALLA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20BUILDER%20%7C%20SMART%20MOBILITY&descAlignY=62&descSize=16" />
 
-### Fullstack Engineer • AI Builder • Smart Mobility Innovator
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Systems;Automotive+Tech+Engineer;Django+%7C+Laravel+%7C+DevOps;Creating+Smart+Mobility+Solutions;Africa+Powered+By+Technology" />
+### Building software for real-world problems
 
-</div>
+I design and build **AI systems, business platforms, automation tools, and smart mobility solutions.**
 
----
+Based in **Tanzania**.
 
-<div align="center">
+<br>
 
 <a href="https://github.com/mwamyalla">
-<img src="https://img.shields.io/github/followers/mwamyalla?style=for-the-badge&logo=github&color=00F7FF">
+<img src="https://img.shields.io/badge/GitHub-mwamyalla-0C2644?style=flat-square&logo=github&logoColor=white" />
 </a>
-
+&nbsp;
+<a href="https://www.linkedin.com/in/lucas-myalla-86b397277/">
+<img src="https://img.shields.io/badge/LinkedIn-Lucas%20Myalla-0C2644?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://x.com/_stonelab">
-<img src="https://img.shields.io/twitter/follow/_stonelab?style=for-the-badge&logo=x&color=black">
+<img src="https://img.shields.io/badge/X-@_stonelab-0C2644?style=flat-square&logo=x&logoColor=white" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=mwamyalla&style=for-the-badge&color=blueviolet">
+&nbsp;
+<a href="mailto:lerasto40@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D7833E?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About
+
+I'm **Lucas Myalla**, a software Developer focused on building practical technology for businesses and emerging industries.
+
+My work combines software Development, artificial intelligence, automation, and digital infrastructure to solve operational problems and create scalable systems.
+
+My primary areas of interest are:
+
+* Artificial Intelligence
+* Business Software
+* Smart Mobility
+* Automotive Technology
+* SaaS Platforms
+* Automation
+* Cloud Infrastructure
 
 ```python
 class LucasMyalla:
 
-    def __init__(self):
-        self.name = "Lucas Myalla"
-        self.country = "Tanzania"
-        self.role = "Software Engineer"
+    name = "Lucas Myalla"
+    role = "Software Engineer"
+    location = "Tanzania"
 
-        self.current_focus = [
-            "Artificial Intelligence",
-            "Smart Mobility",
-            "Automation Systems",
-            "Cloud Infrastructure"
-        ]
+    focus = [
+        "Artificial Intelligence",
+        "Business Systems",
+        "Smart Mobility",
+        "Automation",
+        "Cloud Infrastructure",
+    ]
 
-        self.tech_stack = [
-            "Python",
-            "Django",
-            "Docker",
-            "Linux",
-            "PostgreSQL"
-        ]
-
-    def build(self):
-        return "Turning ideas into scalable systems 🚀"
+    philosophy = "Build useful systems that solve real problems."
 ```
 
 ---
 
-# 🚀 Current Projects
+## What I Build
 
-| Project | Description |
-|---|---|
-| 🚘 Auto365Africa | Smart automotive ecosystem platform |
-| 🤖 G1 Vision | Voice-enabled AI assistant |
-| 🏥 Pharmacy Management System | Secure healthcare operations platform |
-| 🔐 Encryption Suite | Military-inspired encryption application |
-| 🌍 Smart Garage Initiative | Digitizing African garage ecosystems |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### AI Systems
+
+AI assistants, voice interfaces, automation engines, computer vision applications, and intelligent software systems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Business Platforms
+
+Management systems for operations, finance, inventory, customers, services, logistics, and reporting.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Smart Mobility
+
+Technology connecting vehicle owners, automotive businesses, garages, technicians, and service providers.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Infrastructure
+
+Production deployments, Linux servers, Docker, Nginx, Gunicorn, databases, APIs, backups, and monitoring.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚒️ Tech Stack
+# Selected Projects
 
-<div align="center">
+## Auto365 Africa
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,javascript,react,nodejs,mysql,postgres,mongodb,docker,linux,aws,git,github,nginx,tensorflow,vscode,figma&perline=10" />
+**Automotive technology and digital service ecosystem**
+
+A platform designed to connect vehicle owners, automotive businesses, garages, technicians, spare-parts providers, and service operations through a unified digital ecosystem.
+
+**Technology**
+
+`Python` `Django` `PostgreSQL` `JavaScript` `REST API` `Linux` `Nginx`
+
+---
+
+## G1 Vision
+
+**AI assistant and intelligent automation platform**
+
+An AI system exploring natural voice interaction, intelligent decision-making, task automation, image generation, and computer vision.
+
+**Technology**
+
+`Python` `Flask` `AI` `Voice` `Computer Vision` `Automation` `Flutter`
+
+---
+
+## Logistics SaaS
+
+**Multi-tenant logistics management platform**
+
+A SaaS platform concept for logistics companies covering customers, shipments, fleet operations, drivers, tracking, billing, reports, and organizational management.
+
+**Technology**
+
+`Django` `PostgreSQL` `REST API` `Multi-Tenancy` `Docker` `Cloud`
+
+---
+
+## Business Management Systems
+
+Custom software systems designed to replace manual business processes with centralized digital workflows.
+
+Areas include:
+
+* Pharmacy management
+* Point of Sale
+* Inventory
+* Accounting
+* Finance
+* Customer management
+* Service management
+* Reporting
+* Business analytics
+
+---
+
+# Technology Stack
+
+### Backend
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,nodejs&perline=6" />
+
+</div>
+
+### Frontend
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=javascript,react,html,css&perline=6" />
+
+</div>
+
+### Mobile
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&perline=6" />
+
+</div>
+
+### Databases
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&perline=6" />
+
+</div>
+
+### Infrastructure
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,aws,git,github&perline=6" />
+
+</div>
+
+### Design & Development Tools
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,illustrator&perline=6" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# Engineering Approach
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Architecture
+
+Modular systems designed for maintainability, scalability, and future expansion.
+
+</td>
+
+<td width="33%" align="center">
+
+### Automation
+
+Reduce repetitive work through APIs, background processes, integrations, and intelligent workflows.
+
+</td>
+
+<td width="33%" align="center">
+
+### Reliability
+
+Security, backups, monitoring, testing, and predictable production deployments.
+
+</td>
+</tr>
+</table>
+
+---
+
+# GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mwamyalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mwamyalla&show_icons=true&hide_border=true&theme=transparent&title_color=0C2644&icon_color=D7833E&text_color=555555&rank_icon=github&count_private=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwamyalla&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwamyalla&layout=compact&hide_border=true&theme=transparent&title_color=0C2644&text_color=555555&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mwamyalla&hide_border=true&theme=transparent&ring=0C2644&fire=D7833E&currStreakLabel=0C2644" />
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mwamyalla&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwamyalla&bg_color=ffffff&color=0C2644&line=D7833E&point=0C2644&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# Areas of Interest
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mwamyalla&theme=tokyo-night&hide_border=true&area=true" />
+**Artificial Intelligence**
+
+  •  
+
+**Automotive Technology**
+
+  •  
+
+**Smart Mobility**
+
+  •  
+
+**SaaS**
+
+  •  
+
+**Business Automation**
+
+  •  
+
+**Digital Infrastructure**
 
 </div>
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mwamyalla&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lucas-myalla-86b397277/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0C2644?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://x.com/_stonelab">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="https://instagram.com/_stonelab">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<img src="https://img.shields.io/badge/X-Follow-0C2644?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="mailto:lerasto40@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Email-Contact-D7833E?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⚡ "Technology should transform communities, not just businesses."
+### Build systems. Solve problems. Create impact.
+
+**Lucas Myalla**
+
+Software Developer · Tanzania
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0C2644&height=100&section=footer" />
